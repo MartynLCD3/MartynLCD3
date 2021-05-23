@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MartynLCD3
+- 👀 I’m interested in Vue, Electron, PHP, Node and Python technologies
+- 🌱 I’m currently learning NodeJS, DS and ML
